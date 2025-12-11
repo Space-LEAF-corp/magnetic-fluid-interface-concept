@@ -1,0 +1,13 @@
+{
+  "firewall": {
+    "allowlists": ["lineage-consent", "biometric-liveness", "relay-isolation"]
+  },
+  "labyrinth": {
+    "routes": 7,
+    "decoys": 3
+  },
+  "refresh": {
+    "microEpochDays": 1,
+    "macroEpochDays": 365
+  }
+}
